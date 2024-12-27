@@ -64,7 +64,7 @@ export default function History() {
         />
       </div>
       <div className="pt-5">
-        <div class="parallax">
+        <div className="parallax">
           <div className="text-center div-content-paralax">
             <h3 className="pb-4 fw-bold fs-2">آماده برای شروع یک همکاری...</h3>
             <button className="btn btn-outline-dark">ارتباط با من</button>
