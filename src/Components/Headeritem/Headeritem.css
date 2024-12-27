@@ -1,0 +1,32 @@
+.skills {
+  width: 18rem;
+  height: 5px;
+  background: gray;
+  position: relative;
+}
+.div-skill {
+  width: 80%;
+  height: 5px;
+  background: black;
+}
+.div-skill-sqr {
+  width: 3rem;
+  height: 2rem;
+  background: black;
+  position: absolute;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  top: -0.75rem;
+  right: 70%;
+
+}
+.w_50 {
+    width: 50% !important;
+}
+.w_30 {
+  right: 50%;
+
+}

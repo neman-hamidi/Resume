@@ -1,0 +1,25 @@
+.div-stable {
+  width: 2px;
+  height: 2rem;
+  margin: 2rem auto;
+  background: black;
+}
+.bg-blog {
+  background-color: rgb(250, 250, 250);
+  border-radius: 12px ;
+  -webkit-border-radius: 12px ;
+  -moz-border-radius: 12px ;
+  -ms-border-radius: 12px ;
+  -o-border-radius: 12px ;
+}
+.bg-blog div h6 {
+    font-weight: bold;
+}
+.iframe-map {
+    width: 100%;
+    height: 25rem;
+}
+
+.about {
+    margin: 2rem auto;
+}

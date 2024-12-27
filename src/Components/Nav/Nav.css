@@ -1,0 +1,27 @@
+.div-navbar-links {
+    display: flex;
+}
+.div-navbar-links h6 {
+padding: 1rem;
+}
+.navbar {
+    background-image: url(./../../../public/q1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.div-desc-nav {
+    margin-top: 6rem;
+    text-align: center;
+    width: 100%;
+}
+.div-desc-nav p {
+    text-align: center;
+}
+.div-icons-nav {
+    display: flex;
+    justify-content: center;
+}
+.div-icons-nav div{
+    padding: 1rem;
+}

@@ -1,0 +1,21 @@
+.Underheader {
+    background-color: rgb(250, 250, 250);
+    margin-top: 5rem;
+    padding: 4rem 0;
+}
+.div-stable {
+    width: 2px;
+    height: 2rem;
+    margin: 2rem auto;
+    background: black;
+}
+.div-my-skills {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    justify-items: center;
+    position: relative;
+}
+.example-project {
+    padding: 2rem 0;
+}

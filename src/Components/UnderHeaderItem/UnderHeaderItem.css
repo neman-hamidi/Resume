@@ -1,0 +1,23 @@
+.div-gray {
+  width: 4rem;
+  height: 4rem;
+  background-color: rgb(242, 242, 242);
+  border-radius: 12px;
+  border-radius: 50%;
+  position: relative;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+  display: flex;
+  margin: 2rem auto;
+}
+.div-gray div {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+}
+.underheaderitem {
+  width: 20rem;
+  height: 18rem;
+}

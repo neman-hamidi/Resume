@@ -1,0 +1,9 @@
+.datas {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  padding: 5rem 0;
+}
+.bg-div {
+  background-color: rgb(250, 250, 250);
+}

@@ -1,0 +1,40 @@
+.div-stable {
+    width: 2px;
+    height: 2rem;
+    margin: 2rem auto;
+    background: black;
+}
+.history-div{ 
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1.5rem;
+    justify-items: center;
+}
+.parallax {
+    background-image: url(./../../../public/background.png);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div-content-paralax{
+    padding-top: 12rem;
+}
+
+.img-under-paralax img {
+    width: 2rem;
+    margin: 1rem auto;
+    height: 2rem;
+}
+.profile-div div img {
+    width: 5rem;
+    margin: 1rem auto;
+    height: 5rem;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
