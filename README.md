@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![Logo](public/resume.png)
 # Resume
 Built by React
 =======
